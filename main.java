@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Main{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome to My Number Guessing! ");
+        System.out.println("Welcome to My Number Guessing Game! ");
         System.out.print("Enter a number: ");
         int max_num = input.nextInt();
 
